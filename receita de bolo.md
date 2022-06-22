@@ -1,0 +1,5 @@
+﻿leite
+
+açucar
+
+chocolate
